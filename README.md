@@ -11,12 +11,6 @@
 ---
 
 
-#### 6. Structure du Projet
-![Structure Projet](screenshots/project-structure.png)
-*Architecture des fichiers et dossiers*
-
----
-
 ## 📋 Objectif du Projet
 Ce TP vise à consolider les connaissances en React par la création d'une application complète étape par étape. À la fin de ce TP, vous serez capable de :
 
